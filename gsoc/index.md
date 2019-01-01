@@ -4,7 +4,7 @@ title: Google Summer of Code
 permalink: /gsoc/
 ---
 
-## New to GSoC? 
+## New to GSoC?? 
  
 [Background on GSoC: start here!](./background.html)
 
